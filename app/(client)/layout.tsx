@@ -6,9 +6,9 @@ import { firaCode } from '../utils/fonts'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://slava-cms-blog.vercel.app/'),
-  // title: "Dev Blook - A blog for developers",
+  // title: "DevBlog - A blog for developers",
   title: {
-    default: 'Dev Blook - A blog for developers',
+    default: 'DevBlog - A blog for developers',
     template: '%s | DevBlog - A blog for developers',
   },
   description: 'A blog for developers by developers!',
